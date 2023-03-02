@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href = "https://develop-suho.tistory.com"><img src = "https://img.shields.io/badge/FFFFFF?style=flat&logoColor=000000"/></a>
+<a href = "https://develop-suho.tistory.com"><img src = "https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
