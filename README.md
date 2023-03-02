@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <a href = "https://develop-suho.tistory.com"><img src = "https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
+<h2>백엔드 개발자 Suho입니다!</h2><br/>
+<h2>Skills</h2>
+
+<div align = "center"> 
+  <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-69b82b?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+</div>
