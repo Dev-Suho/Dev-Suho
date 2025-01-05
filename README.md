@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href = "https://develop-suho.tistory.com"><img src = "https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
 <h2>백엔드 개발자 Suho입니다!</h2>
 <div> 
 <h3>✏️ Skills</h3>
